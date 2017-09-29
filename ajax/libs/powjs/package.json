@@ -6,7 +6,7 @@
   "homepage": "http://powjs.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/powjs/powjs.git",
+    "url": "https://github.com/powjs/powjs.git"
   },
   "license": "MIT",
   "keywords": [
