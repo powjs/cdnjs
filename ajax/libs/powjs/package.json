@@ -4,7 +4,10 @@
   "description": "JavaScript template engine for HTML and Node",
   "version": "1.0.0",
   "homepage": "http://powjs.com",
-  "repository": "git+https://github.com/powjs/powjs.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/powjs/powjs.git",
+  }
   "license": "MIT",
   "keywords": [
     "powjs",
